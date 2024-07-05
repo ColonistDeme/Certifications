@@ -22,7 +22,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Technology | Provider | Description | Link | Expiration | Completed |
 | --- | --- | --- | --- | --- | --- |
-| Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
+| Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown | [ ] |
 | OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 | [ ] |
 | Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Unlimited | [ ] |
 | Data Visualization | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/data-visualization/) | Unlimited | [ ] |
@@ -199,7 +199,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | Unlimited | [ ] |
 | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited | [ ] |
 | SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited | [ ] |
-| Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited [ ] |
+| Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited | [ ] |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 

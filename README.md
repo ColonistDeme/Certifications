@@ -231,8 +231,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | CertiProf| Business Model Canvas Essentials Professional Certification - BMCEPC | [Link](https://certiprof.com/pages/business-model-canvas-essentials-bmce) | Unknown | [ ] |
 | CertiProf| Business Intelligence Foundation Professional Certification - BIFPC (Spanish Only) | [Link](https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc) | Unknown | [ ] |
 | Slack | Free Slack Skill Learning Paths and Badges (issued by accredible.com - these are not certifications but badges for skill specialists) | [Link](https://www.slackcertified.com/page/slack-skills) | Unknown | [ ] |
-| Reuters | Reuters Training Course: Introduction to Digital Journalism | [Link](https://reutersdigitaljournalism.com/) | Unknown [ ] |
-| OpenSAP | openSAP is SAP's free learning platform for everyone interested in learning about SAP's latest innovations and how to survive in the digital economy. | [Link](https://open.sap.com/) | Unknown [ ] |
+| Reuters | Reuters Training Course: Introduction to Digital Journalism | [Link](https://reutersdigitaljournalism.com/) | Unknown | [ ] |
+| OpenSAP | openSAP is SAP's free learning platform for everyone interested in learning about SAP's latest innovations and how to survive in the digital economy. | [Link](https://open.sap.com/) | Unknown | [ ] |
 | Kami | Free online training courses to build your Kami skills and grow as a leader in your professional learning community | [Link](https://www.kamiapp.com/certified/) | 31-Oct-2021 | [ ] |
 | Miro | Miro essentials | [Link](https://academy.miro.com/learning-paths/miro-essentials) | Unknown | [ ] |
 | Miro | Collaborative meetings | [Link](https://academy.miro.com/learning-paths/collaborative-meetings-in-miro) | Unknown | [ ] |
